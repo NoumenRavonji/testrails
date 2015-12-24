@@ -1,3 +1,7 @@
+This is my test and first app for Ruby on rails
+by [nomenasitraka]
+
+
 == README
 
 This README would normally document whatever steps are necessary to get the
